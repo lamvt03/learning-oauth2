@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: learning-oauth2
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: 17f626f89164431aa92b
+            client-secret: fcb5603f52ba71f3ac88e49ed667395f374cabab
+          google:
+            client-id: 14458673516-saeossr263cc9dppu627are16vqveajc.apps.googleusercontent.com
+            client-secret: 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
+
